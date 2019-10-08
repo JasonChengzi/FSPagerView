@@ -68,3 +68,5 @@ fastlane/screenshots
 fastlane/test_output
 
 Index/*
+FSPagerView/.DS_Store
+.DS_Store
